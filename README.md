@@ -1,6 +1,12 @@
-# vuetify-todo
+## Vuetify TodoApp
 
-## Project setup
+Simple Vue Todo App created following the instructions on [this Youtube video](https://www.youtube.com/watch?v=CjXgoYo86yY&t). 
+
+### Tecnologies:
+- Vue 2
+- Vuetify
+
+### Project setup
 ```
 yarn install
 ```
@@ -14,6 +20,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
